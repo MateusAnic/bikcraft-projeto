@@ -1,5 +1,5 @@
 # Projeto - Bikcraft
- <h1>Serviço fictício voltado para fábricação de bicicletas personalizadas e sob encomenda;</h1>
+ <h2>Serviço fictício voltado para fábricação de bicicletas personalizadas e sob encomenda;</h2>
  
  <strong>Tecnologias:</strong> HTML5, CCS3, Javascript, PHP;
 
