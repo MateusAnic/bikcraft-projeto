@@ -1,7 +1,7 @@
 # Projeto - Bikcraft
  <h1>Serviço fictício voltado para fábricação de bicicletas personalizadas e sob encomenda;</h1>
  
- <strong>Tecnologias:</strong> HTML5, CCS3, Javascript;
+ <strong>Tecnologias:</strong> HTML5, CCS3, Javascript, PHP;
 
 
 ![wireframe-bikcraft](https://user-images.githubusercontent.com/56458098/120091277-f8d6d180-c0df-11eb-976d-dc1d351e89eb.jpg)
