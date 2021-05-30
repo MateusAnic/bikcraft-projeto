@@ -1,5 +1,5 @@
-# bikcraft-projeto
- <h1>Projeto de serviço fictícia voltado para fábricação de bicicletas personalizadas e sob encomenda;</h1>
+# Projeto - Serviço Bikcraft
+ <h1>Projeto de serviço fictício voltado para fábricação de bicicletas personalizadas e sob encomenda;</h1>
  
  <strong>Tecnologias:</strong> HTML5, CCS3, Javascript;
 
